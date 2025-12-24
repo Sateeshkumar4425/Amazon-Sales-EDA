@@ -87,7 +87,7 @@ pip install -r requirements.txt
 
 👤 About Me
 
-Name: Patlegar Sateesh Kumar Role: Aspiring Junior Data Scientist | Amazon_sales Analytics Enthusiast
+Name: Patlegar Sateesh Kumar Role: Aspiring Junior Data Scientist | Web3 & Crypto Analytics Enthusiast
 
 💼 Open to data science, analytics, and quant roles
 
