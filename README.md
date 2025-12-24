@@ -41,6 +41,9 @@ The goal of this analysis is to extract meaningful insights that can help improv
 - Seaborn
 
 ---
+📂 GitHub Repo:
+👉 <a href=<"https://github.com/Sateeshkumar4425/Amazon-Sales-EDA"> GitHub</a>
+---
 ## 📊 Key Visual Insights
 
 ### Category-wise Product Distribution
