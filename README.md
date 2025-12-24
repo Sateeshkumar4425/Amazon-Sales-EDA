@@ -78,8 +78,10 @@ The goal of this analysis is to extract meaningful insights that can help improv
 
 
 ## How to Run the Project
-   '''bash
-pip install -r requirements.txt '''
+1.```bash
+pip install -r requirements.txt
+2. Launch Jupyter Notebook:jupyter notebook
+3. Open the notebook and run all cells in order.
 
 👤 About Me
 
