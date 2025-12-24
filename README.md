@@ -83,9 +83,9 @@ The goal of this analysis is to extract meaningful insights that can help improv
 
 2. Launch Jupyter Notebook:jupyter notebook
    
-3. Open the notebook and run all cells in order.'''
+3. Open the notebook and run all cells in order.
 
-👤 About Me
+'''👤 About Me
 
 Name: Patlegar Sateesh Kumar Role: Aspiring Junior Data Scientist | Amazon_sales Analytics Enthusiast
 
@@ -93,6 +93,6 @@ Name: Patlegar Sateesh Kumar Role: Aspiring Junior Data Scientist | Amazon_sales
 
 📧 Email: patlegarsateeshkumar@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
+🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/'''
 
 
