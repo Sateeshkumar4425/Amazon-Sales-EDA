@@ -78,8 +78,8 @@ The goal of this analysis is to extract meaningful insights that can help improv
 
 
 ## How to Run the Project
-1.```bash
-pip install -r requirements.txt
+```bash
+1. pip install -r requirements.txt
 
 2. Launch Jupyter Notebook:jupyter notebook
    
