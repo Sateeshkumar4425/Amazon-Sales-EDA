@@ -45,24 +45,32 @@ The goal of this analysis is to extract meaningful insights that can help improv
 
 ### Category-wise Product Distribution
 ![Category Distribution](https://github.com/Sateeshkumar4425/Amazon-Sales-EDA/blob/main/image/category_sales.png)
+
+
 1.T-shirts and Shirts contribute the highest number of orders, showing they are the most in-demand products.
 2.Non-clothing categories (Wallets, Watches, Shoes) have very low order share, indicating limited customer interest.
 3.Sales are heavily concentrated in a few categories, suggesting inventory and marketing should focus more on top-performing products.
 
 ### Sales Amount Distribution by Category
 ![Amount vs Category](https://github.com/Sateeshkumar4425/Amazon-Sales-EDA/blob/main/image/category_sales%20A.png)
+
+
 1.Most categories show higher order density in the mid-price range, indicating customers are price-sensitive.
 2.Apparel products generate consistent sales across different price points, making them reliable revenue drivers.
 3.High-priced orders are relatively fewer, suggesting premium products have limited demand.
 
 ### Correlation Between Quantity and Amount
 ![Correlation Heatmap](https://github.com/Sateeshkumar4425/Amazon-Sales-EDA/blob/main/image/correlation_heatmap.png)
+
+
 1.There is a moderate positive correlation between quantity and amount, meaning higher quantities usually lead to higher order value.
 2.The correlation is not very strong, indicating most customers purchase small quantities per order.
 3.Increasing quantity-based offers or bundles could help improve overall revenue per order.
 
 ### Order Status Across Product Sizes
 ![Size vs Status](https://github.com/Sateeshkumar4425/Amazon-Sales-EDA/blob/main/image/Status_VS_Size.png)
+
+
 1.Medium (M), Large (L), and XL sizes have the highest number of successfully shipped orders.
 2.Smaller and extreme sizes (XS, 5XL, 6XL) show lower demand, suggesting slower inventory movement.
 3.Cancellation rates are relatively low across popular sizes, indicating good size availability and customer satisfaction.
@@ -70,8 +78,8 @@ The goal of this analysis is to extract meaningful insights that can help improv
 
 
 ## How to Run the Project
-```bash
-pip install -r requirements.txt
+   '''bash
+pip install -r requirements.txt '''
 
 👤 About Me
 
@@ -82,3 +90,5 @@ Name: Patlegar Sateesh Kumar Role: Aspiring Junior Data Scientist | Amazon_sales
 📧 Email: patlegarsateeshkumar@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/patlegar-sateesh-kumar-868870258/
+
+
